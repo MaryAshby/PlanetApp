@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+
+body
+{
+   background-color:#97BC62FF;
+    color:#2C5F2D;
+}
+
+img
+{
+    width:140px;
+    height:140px;
+    padding:5px;
+        
+    
+}
+
+h1
+{
+    font-size:175;
+    margin-block-end:20px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+img.description
+{
+    width:350px;
+    height:350px;
+    
+    padding:5px;
+    display:block;
+    Float:left;
+    padding-right:40px;
+}
+
+#planet_info
+{
+    font-family: 'Orbitron', sans-serif;
+    font-size:40px;
+}
+
+#planet_info .title
+{
+    font-size:100px;
+    font-weight: 900;
+}
+
+.info
+{
+    padding-left:50px;
+}
