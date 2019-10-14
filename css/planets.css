@@ -50,3 +50,39 @@ img.description
 {
     padding-left:50px;
 }
+
+table
+{
+    font-family: 'Orbitron', sans-serif;
+    font-size:40px;
+}
+
+table img
+{
+    width:100px;
+    height:100px;
+}
+
+.GASSY
+{
+    font-weight:100;
+}
+
+.ROCKY
+{
+    font-weight:900;
+}
+
+
+button
+{
+    background-color:#2C5F2D;
+    color:#97BC62FF;
+    font-size:45px;
+    font-family: 'Orbitron', sans-serif;
+    
+    
+    
+    
+    
+}
